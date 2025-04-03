@@ -10,7 +10,7 @@ const App: React.FC = () => {
         <div className="relative w-full h-full">
           <iframe
             title="Power BI Report"
-            src="https://app.powerbi.com/reportEmbed?reportId=095d69d2-6d84-489a-8cad-21f2663be340&autoAuth=true&ctid=7a746742-7931-4f5d-8af3-d2bf6fbb3a15"
+            src="https://app.powerbi.com/reportEmbed?reportId=2f550fdb-2c66-40fb-91d0-ee047994dcae&autoAuth=true&ctid=7a746742-7931-4f5d-8af3-d2bf6fbb3a15"
             allowFullScreen
             className="absolute top-0 left-0 w-full h-full bg-black rounded-xl border shadow-lg"
           ></iframe>
